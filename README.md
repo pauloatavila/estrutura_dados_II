@@ -1,2 +1,3 @@
 # estrutura_dados_II
-Estrutura de Dados II
+Aulas para disciplina de Algoritmo e Estrutura de Dados II
+Aluno: Paulo Atavila
